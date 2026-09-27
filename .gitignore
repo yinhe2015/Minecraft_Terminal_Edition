@@ -1,0 +1,14 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 存档
+maps
+
+# 命令历史
+history.txt
+
+# Python
+__pycache__/
+*.pyc
